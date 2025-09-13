@@ -56,10 +56,4 @@ pip install torch torchvision numpy matplotlib scikit-learn jupyter
 
 Contributions are welcome! Please open an issue or pull request for suggestions, improvements, or bug reports.
 
-## License
-
-This project is open to the community.
-
----
-
 **Author:** [Ustedcan](https://github.com/Ustedcan)
