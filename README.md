@@ -1,10 +1,10 @@
-# Vision Transformers for Culicoides Classification
+# Vision Transformers for *Culicoides* Classification
 
-This project uses a Vision Transformer (ViT) architecture for the automatic classification of species from the Culicoides genus based on images. Culicoides are small insects of medical and veterinary importance, and their accurate identification is crucial for epidemiological studies.
+This project uses a Vision Transformer (ViT) architecture for the automatic classification of species from the *Culicoides* genus based on images. *Culicoides* are small insects of medical and veterinary importance, and their accurate identification is crucial for epidemiological studies.
 
 ## Description
 
-The main objective is to implement and train a model based on Vision Transformers that can efficiently and accurately classify images of Culicoides, thus facilitating research and monitoring of these species.
+The main objective is to implement and train a model based on Vision Transformers that can efficiently and accurately classify images of *Culicoides*, thus facilitating research and monitoring of these species.
 
 ## Repository Structure
 
